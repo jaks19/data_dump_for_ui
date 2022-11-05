@@ -1,3 +1,9 @@
 [
-  {"Title":"img1","class_1":"0","class_2":"0","prob_1":0.8,"prob_2":0.85},
+  {
+    "Title":"img1",
+    "class_1":"0",
+    "class_2":"0",
+    "prob_1":0.8,
+    "prob_2":0.85
+  },
 ]
