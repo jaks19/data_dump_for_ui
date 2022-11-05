@@ -1,13 +1,4 @@
 [
   {"Title":"img1","class_1":0,"class_2":0,"prob_1":0.8,"prob_2":0.85},
-  {"Title":"img2","class_1":0,"class_2":0,"prob_1":0.8,"prob_2":0.35},
-  {"Title":"img3","class_1":2,"class_2":0,"prob_1":0.5,"prob_2":0.45},
-  {"Title":"img4","class_1":2,"class_2":2,"prob_1":0.7,"prob_2":0.25},
-  {"Title":"img5","class_1":3,"class_2":2,"prob_1":0.7,"prob_2":0.45},
-  {"Title":"img6","class_1":3,"class_2":2,"prob_1":0.3,"prob_2":0.65},
-  {"Title":"img7","class_1":4,"class_2":2,"prob_1":0.4,"prob_2":0.45},
-  {"Title":"img8","class_1":4,"class_2":2,"prob_1":0.7,"prob_2":0.55},
-  {"Title":"img9","class_1":6,"class_2":2,"prob_1":0.7,"prob_2":0.25},
-  {"Title":"img10","class_1":6,"class_2":2,"prob_1":0.3,"prob_2":0.35},
-  {"Title":"img11","class_1":6,"class_2":2,"prob_1":0.7,"prob_2":0.55}
+  {"Title":"img2","class_1":0,"class_2":0,"prob_1":0.8,"prob_2":0.35}
 ]
