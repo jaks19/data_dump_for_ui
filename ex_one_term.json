@@ -1,5 +1,5 @@
 [
-	{"Title":"img1","class_1":0,"class_2":0,"prob_1":0.8,"prob_2":0.85},
+  {"Title":"img1","class_1":0,"class_2":0,"prob_1":0.8,"prob_2":0.85},
   {"Title":"img2","class_1":0,"class_2":0,"prob_1":0.8,"prob_2":0.35},
   {"Title":"img3","class_1":2,"class_2":0,"prob_1":0.5,"prob_2":0.45},
   {"Title":"img4","class_1":2,"class_2":2,"prob_1":0.7,"prob_2":0.25},
